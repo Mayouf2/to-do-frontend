@@ -1,0 +1,17 @@
+/* #done {
+    color: red;
+    text-decoration: line-through;
+  } */
+
+  
+.todo-text {
+    cursor: pointer;
+  }
+  
+  .todo-completed {
+    text-decoration: line-through;
+  }
+
+  .task{
+      text-align: center;
+  }
